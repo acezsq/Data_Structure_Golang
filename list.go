@@ -13,6 +13,7 @@ func main() {
 	l.PushBack(1)
 	l.PushBack(2)
 	l.PushBack(3)
+	l.PushBack(4)
 
 	// 在链表头部添加元素
 	l.PushFront(0)

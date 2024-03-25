@@ -7,4 +7,5 @@ Data structure templates commonly used when using the Go language for Leetcode
 |     栈      | [stack](https://github.com/acezsq/Data_Structure_Golang/blob/main/stack.go) |                                                              |
 |    队列     | [queue](https://github.com/acezsq/Data_Structure_Golang/blob/main/queue.go) |                                                              |
 | 堆/优先队列 | [heap](https://github.com/acezsq/Data_Structure_Golang/blob/main/heap.go) | [heap容器](https://github.com/acezsq/Data_Structure_Golang/blob/main/blog/heap.md) |
+|    集合     | [set](https://github.com/acezsq/Data_Structure_Golang/blob/main/set.go) |                                                              |
 
